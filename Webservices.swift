@@ -1,10 +1,4 @@
-//
-//  Webservices.swift
-//  Edumate_App
-//
-//  Created by Karthikeyan K. on 7/11/18.
-//  Copyright © 2018 Itechind. All rights reserved.
-//
+
 
 import Foundation
 import UIKit
